@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>asia.iosdev.OuMagicAppTwo</string>
+				<string>mail.Oumailapp.FS</string>
 				<key>bundle-version</key>
-				<string>2.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>MagicAppUpdate</string>
+				<string>MailApp</string>
 			</dict>
 		</dict>
 	</array>
